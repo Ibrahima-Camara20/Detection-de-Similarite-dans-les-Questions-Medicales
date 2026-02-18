@@ -12,7 +12,7 @@ Il repose sur une approche de **Transfer Learning** utilisant le modèle **BioBE
 
 ###  Fonctionnalités Clés
 * **NLP de Pointe (State-of-the-Art) :** Propulsé par le modèle `dmis-lab/biobert-base-cased-v1.2`.
-* **Support Multilingue 🌍 :** Accepte les questions en **Français** et en **Anglais**. Un pipeline de traduction (Google Translate API) convertit automatiquement les requêtes vers l'anglais pour l'analyse, rendant l'outil accessible aux francophones.
+* **Support Multilingue  :** Accepte les questions en **Français** et en **Anglais**. Un pipeline de traduction (Google Translate API) convertit automatiquement les requêtes vers l'anglais pour l'analyse, rendant l'outil accessible aux francophones.
 * **Haute Précision :** Performance atteinte de **~83.7% d'accuracy** et **0.84 de F1-Score** sur le jeu de test.
 * **Interface Interactive :** Application Web intuitive développée avec Streamlit.
 * **Transparence (Explainability) :** Affiche les scores de confiance (probabilités) et la traduction interne utilisée par le modèle.
