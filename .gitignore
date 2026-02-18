@@ -1,0 +1,5 @@
+BERT_for_Question_Pair/
+__pycache__/
+*.zip
+*.bin
+*.safetensors
